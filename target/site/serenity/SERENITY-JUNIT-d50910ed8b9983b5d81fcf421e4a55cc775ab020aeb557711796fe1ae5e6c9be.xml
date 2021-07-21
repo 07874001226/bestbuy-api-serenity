@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.bestbuy.bestbuyinfo.StoresCURDTest" skipped="0" tests="5" time="4.87" timestamp="2021-07-21T23:31:18.107+01:00[Europe/London]"><testcase classname="com.bestbuy.bestbuyinfo.StoresCURDTest" name="This will get a store list"/><testcase classname="com.bestbuy.bestbuyinfo.StoresCURDTest" name="This will create a new stores"><failure message="1 expectation failed.&#10;Expected status code &lt;201&gt; but was &lt;400&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;201&gt; but was &lt;400&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;201&gt; but was &lt;400&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+com.bestbuy.bestbuyinfo.StoresCURDTest.test002(StoresCURDTest.java:41)&#13;
+</system-err></testcase><testcase classname="com.bestbuy.bestbuyinfo.StoresCURDTest" name="This will get stores by id"/><testcase classname="com.bestbuy.bestbuyinfo.StoresCURDTest" name="This test will update the stores  by existing id"/><testcase classname="com.bestbuy.bestbuyinfo.StoresCURDTest" name="This will delete a new stores"/></testsuite>

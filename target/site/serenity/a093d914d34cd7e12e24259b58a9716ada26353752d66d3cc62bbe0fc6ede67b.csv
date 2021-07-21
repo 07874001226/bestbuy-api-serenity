@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Services CURD test","This will get a Services list","SUCCESS","2021-07-21T23:29:39.226+01:00[Europe/London]","0.0","0.07"
+"Services CURD test","This will create a new services","SUCCESS","2021-07-21T23:29:39.302+01:00[Europe/London]","0.0","0.09"
+"Services CURD test","This will get services by id","SUCCESS","2021-07-21T23:29:39.397+01:00[Europe/London]","0.0","0.04"
+"Services CURD test","This test will update the services  by existing id","SUCCESS","2021-07-21T23:29:39.439+01:00[Europe/London]","0.0","0.1"
+"Services CURD test","This will delete a new services","SUCCESS","2021-07-21T23:29:39.544+01:00[Europe/London]","0.0","0.03"

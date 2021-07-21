@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Catrgories CURD test","This will get a Categories list","SUCCESS","2021-07-21T23:29:29.937+01:00[Europe/London]","0.0","4.62"
+"Catrgories CURD test","This will create a new categories","SUCCESS","2021-07-21T23:29:34.591+01:00[Europe/London]","0.0","0.74"
+"Catrgories CURD test","This will get Categories by id","SUCCESS","2021-07-21T23:29:35.329+01:00[Europe/London]","0.0","0.06"
+"Catrgories CURD test","This test will update the categories  by existing id","SUCCESS","2021-07-21T23:29:35.390+01:00[Europe/London]","0.0","0.12"
+"Catrgories CURD test","This will delete a new categories","SUCCESS","2021-07-21T23:29:35.509+01:00[Europe/London]","0.0","0.04"
